@@ -1,0 +1,30 @@
+img{
+    width: 240px;
+    height: 150px;
+}
+body{
+    background: linear-gradient(#28637d,#173442,#182c34);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: aquamarine !important;
+    font-family: 'Tilt Prism', cursive !important;
+}
+audio{
+    margin-top: 650px;
+}
+label{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: springgreen;
+    font-size: 20px;
+}
+#hh22{
+    font-family: 'Monoton', cursive;
+    color: lightblue;
+}
+#hhh222{
+    font-family: 'Creepster', cursive;
+    color: lawngreen;
+}
